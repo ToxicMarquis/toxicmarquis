@@ -148,6 +148,7 @@ I am a 22 year old programmer with an interest in Android. I have a lot of fun w
 
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=wingio&show_icons=true&theme=radical)
+&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingio&bg_color=141321&text_color=fff&langs_count=3)](https://github.com/wingio)
 
 </div>
