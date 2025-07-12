@@ -19,5 +19,5 @@ jobs:
           base: ""
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plagin_chess_user: modermark
+          plugin_chess_user: modermark
           plugin_chess_platform: lichess.org
