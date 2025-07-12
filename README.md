@@ -12,8 +12,8 @@
 </div>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2ed69842-4b8a-4e31-8ce7-013f0c4e064c">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrq8/mrq8/blob/dc/badges/line_w.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrq8/mrq8/blob/dc/badges/line_b.png">
         <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
     </picture>
 </div>
