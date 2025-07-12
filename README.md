@@ -18,15 +18,15 @@
     </picture>
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border-collapse: collapse; border: #0D1017;">
   <tr>
-    <td style="padding: 8px; border: none;">
+    <td style="padding: 8px;">
       <h3>📚 Languages I Know</h3>
       <a href="https://skillicons.dev">
         <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
       </a>
     </td>
-    <td style="padding: 8px; border: none;">
+    <td style="padding: 8px;">
       <h3>🔧 Other Stuff</h3>
       <a href="https://skillicons.dev">
         <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
