@@ -1,8 +1,8 @@
 <div align="center">
-    <picture width="3819" height="1000">
+    <picture>
         <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_w.png" media="(prefers-color-scheme: dark)">
         <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_b.png" media="(prefers-color-scheme: light)">
-        <img alt="Hi, I'm Mark" src="white" width=400>
+        <img alt="Hi, I'm Mark" src="white" width=2000>
     </picture>
 </div>
 
