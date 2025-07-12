@@ -31,10 +31,10 @@
 
 </br>
 
-<td colspan="2" align="center">
+<div colspan="2" align="center">
     <img src="https://github.com/mrq8/toxicmarquis/blob/dc/chess/mrq8.plugin.chess.svg" alt=""></img>
     <img width="900" height="1" alt="">
-</td>
+</div>
 
 </br>
 
