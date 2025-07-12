@@ -41,12 +41,6 @@
 </br>
 
 <div align="center">
-    <img src="https://github.com/mrq8/mrq8/blob/dc/metrics.plugin.chess.svg" alt=""></img>
-</div>
-
-</br>
-
-<div align="center">
     <h4>🔗 Links</h4>
     <div>
         <a href="https://t.me/mrmarqu1s">
