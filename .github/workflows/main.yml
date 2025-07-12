@@ -1,4 +1,5 @@
-- uses: lowlighter/metrics@latest
+- name: Last chess game from lichess.org
+  uses: lowlighter/metrics@latest
   with:
     filename: metrics.plugin.chess.svg
     token: NOT_NEEDED
