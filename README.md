@@ -83,9 +83,9 @@
         &nbsp;
         <a href="https://mrq8.github.io/uni7club">
             <picture width="45" height="45">
-                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges.logo_w.png" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges.logo_w.png" media="(prefers-color-scheme: light)" />
-                <img alt="Uni7Club" src="https://github.com/mrq8/mrq8/blob/dc/badges.logo_w.png" width="45" />
+                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/logo_w.png" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/logo_b.png" media="(prefers-color-scheme: light)" />
+                <img alt="Uni7Club" src="https://github.com/mrq8/mrq8/blob/dc/badges/logo_w.png" width="45" />
             </picture>
         </a>
     </div>
