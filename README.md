@@ -29,7 +29,9 @@
     </a>
 </div>
 
-![Chess Metrics](https://github.com/yourusername/yourusername/blob/main/metrics.plugin.chess.svg)
+<div>
+    ![Chess Metrics](https://github.com/yourusername/yourusername/blob/main/metrics.plugin.chess.svg)
+</div>
 
 </br>
 
