@@ -1,29 +1,8 @@
-name: ModerMArks Games
-on:
-  schedule: 
-    - cron: "0 */6 * * *"  # Обновление каждые 6 часов
-  workflow_dispatch:
-  push: 
-    branches: ["cd"]
-
 - uses: lowlighter/metrics@latest
   with:
-    token: NO_NEEDED
-    user: mrq8
-          
-    # Основные настройки
-    filename: mrq8.plugin.chess.svg
+    filename: metrics.plugin.chess.svg
+    token: NOT_NEEDED
     base: ""
-          
-    # Chess плагин
     plugin_chess: yes
     plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
     plugin_chess_platform: lichess.org
-          
-    # Настройки анимации (опционально)
-    plugin_chess_animation: |
-      {
-        "size": 50,
-        "delay": 2,
-        "duration": 0.8
-      }
