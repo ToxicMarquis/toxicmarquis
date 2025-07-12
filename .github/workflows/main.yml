@@ -17,6 +17,7 @@ jobs:
         with:
           filename: chess/mrq8.plugin.chess.svg
           token: NOT_NEEDED
+          user: mrq8
           base: ""
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
