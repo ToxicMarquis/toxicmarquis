@@ -27,7 +27,6 @@
 <br/>
 
 <div align="center">
-    &nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=nexpid&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
     </a>
@@ -37,7 +36,7 @@
 <br/>
 
 <div align="center">
-    <h1>🔗 Links</h1>
+    <h3>🔗 Links</h1>
     <div>
         <a href="https://ko-fi.com/nexpid">
             <picture width="45" height="45">
@@ -148,7 +147,6 @@ I am a 22 year old programmer with an interest in Android. I have a lot of fun w
 
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=wingio&show_icons=true&theme=radical)
-&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingio&bg_color=141321&text_color=fff&langs_count=3)](https://github.com/wingio)
 
 </div>
