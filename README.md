@@ -8,7 +8,7 @@
 
 <div align="center">
     <h3>👋 Hey, I'm Mark</h3>
-    I'm a <b>18</b> year old aspiring developer who mostly likes to code and do silly stuff on the internet.
+    I'm a 18 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
 </div>
 <div align="center">
     <picture>
@@ -21,7 +21,7 @@
 <p align="center">
   <span>📚 Languages I Know</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span> ​ ​ ​ ​ ​ ​🔧 Other Stuff ​ ​ ​ ​ ​ ​ ​ ​</span>
+  <span>🔧 Other Stuff ​ ​ ​ ​ ​</span>
 </p>
 
 <p align="center">
