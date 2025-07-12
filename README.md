@@ -5,13 +5,13 @@
     I'm a <b>15</b> year old aspiring developer who mostly likes to code and do silly stuff on the internet.
 </div>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2ed69842-4b8a-4e31-8ce7-013f0c4e064c">
   <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
 </picture>
 
-<div>
+<div align="center">
     <h3>📚 Languages I Know</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
