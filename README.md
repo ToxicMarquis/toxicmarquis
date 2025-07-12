@@ -3,9 +3,9 @@
 <div align="center">
     <h3>👋 Hey, I'm Nexpid</h3>
     I'm a <b>15</b> year old aspiring developer who mostly likes to code and do silly stuff on the internet.
-    <h3>📚 Languages / Frameworks I Know</h3>
+    <h3>📚 Languages I Know</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=py,js,html,css">
+        <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
