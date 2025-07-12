@@ -15,7 +15,7 @@ jobs:
       - name: Last chess game from lichess.org
         uses: lowlighter/metrics@latest
         with:
-          filename: chess/metrics.plugin.chess.svg
+          filename: chess/mrq8.plugin.chess.svg
           token: NOT_NEEDED
           base: ""
           plugin_chess: yes
