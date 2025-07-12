@@ -41,7 +41,7 @@
 </br>
 
 <div align="center">
-    <img src="https://github.com/mrq8/toxicmarquis/blob/dc/chess/mrq8.plugin.chess.svg" alt=""></img>
+    <img src="https://github.com/mrq8/mrq8/blob/dc/metrics.plugin.chess.svg" alt=""></img>
 </div>
 
 </br>
