@@ -18,22 +18,25 @@
     </picture>
 </div>
 
-<table align="center" style="border-collapse: collapse; border: #0D1017;">
-  <tr>
-    <td style="padding: 8px;">
-      <h3>📚 Languages I Know</h3>
-      <a href="https://skillicons.dev">
-        <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
-      </a>
-    </td>
-    <td style="padding: 8px;">
-      <h3>🔧 Other Stuff</h3>
-      <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span style="font-size:4em; font-weight:bold;">📚 Languages I Know</span>
+  &nbsp;
+  <span>🔧 Other Stuff</span>
+</p>
+
+<p align="center">
+  <span>
+    <a href="https://skillicons.dev">
+      <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
+    </a>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <a href="https://skillicons.dev">
+      <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
+    </a>
+  </span>
+</p>
 
 </br>
 
@@ -75,7 +78,7 @@
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/lichess/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/lichess/000" media="(prefers-color-scheme: light)" />
-                <img alt="Roblox" src="https://cdn.simpleicons.org/lichess/FFF" width="45" />
+                <img alt="Lichess" src="https://cdn.simpleicons.org/lichess/FFF" width="45" />
             </picture>
         </a>
         &nbsp;
@@ -83,7 +86,7 @@
             <picture width="45" height="45">
                 <source srcset="white" media="(prefers-color-scheme: dark)" />
                 <source srcset="black" media="(prefers-color-scheme: light)" />
-                <img alt="Twitter" src="white" width="45" />
+                <img alt="Uni7Club" src="white" width="45" />
             </picture>
         </a>
     </div>
