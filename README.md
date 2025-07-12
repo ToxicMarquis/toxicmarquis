@@ -1,14 +1,4 @@
-<div align="center">
-    <a href="https://api.statusbadges.me/openspotify/853550207039832084">
-        <img src="https://api.statusbadges.me/badge/spotify/853550207039832084?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
-    </a>
-    &nbsp;
-    <a href="https://pronoundb.org/">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/age-15-cba6f7?style=for-the-badge&labelColor=1e1e2e">
-</div>
+
 
 <div align="center">
     <h3>👋 Hey, I'm Nexpid</h3>
@@ -28,7 +18,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=nexpid&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=toxicmarquis&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
     </a>
 </div>
 
@@ -79,13 +69,6 @@
         </a>
     </div>
 </div>
-
-> Want to know what I'm currently working on ?\
-> Checkout [@lowlighter's todos](https://github.com/users/lowlighter/projects/9)
-> 
-> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but I'm planning to work back on it once I finish [mizu.js](https://mizu.sh), which with [matcha.css](https://matcha.mizu.sh) and [@libs](https://github.com/lowlighter/libs) combined will make it easier to manage !*
-> 
-> *Thanks for your patience and continued support !*
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
