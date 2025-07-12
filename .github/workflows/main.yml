@@ -1,9 +1,23 @@
-- name: Last chess game from lichess.org
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.chess.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_chess: yes
-    plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-    plugin_chess_platform: lichess.org
+name: AIM ModerMarks Games
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Обновление каждые 6 часов
+  workflow_dispatch:
+  push:
+    branches: ["dc"]  # Используем ветку dc вместо main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Last chess game from lichess.org
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.chess.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
