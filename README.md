@@ -1,7 +1,7 @@
 <div align="center">
     <picture>
-        <source srcset="white" media="(prefers-color-scheme: dark)">
-        <source srcset="black" media="(prefers-color-scheme: light)">
+        <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_w.png" media="(prefers-color-scheme: dark)">
+        <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_b.png" media="(prefers-color-scheme: light)">
         <img alt="Hi, I'm Mark" src="white" width=400>
     </picture>
 </div>
