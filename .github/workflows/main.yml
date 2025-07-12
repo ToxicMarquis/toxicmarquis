@@ -10,7 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Last chess game from lichess.org
         uses: lowlighter/metrics@latest
