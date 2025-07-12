@@ -1,23 +1,23 @@
 name: LiChess Metrics
+
 on:
-  workflow_dispatch:
   push:
-    branches: ["dc"]
+    branches: [ "dc" ]
+  pull_request:
+    branches: [ "dc" ]
+  workflow_dispatch:
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: Generate Chess metrics
+      - name: Last chess game from lichess.org
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.chess.svg
-          token: NO_NEEDED
-          user: mrq8
+          token: NOT_NEEDED
           base: ""
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plugin_chess_user: lowlighter
           plugin_chess_platform: lichess.org
