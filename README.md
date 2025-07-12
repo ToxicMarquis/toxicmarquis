@@ -30,7 +30,7 @@
 </div>
 
 <div>
-    ![Chess Metrics](https://github.com/yourusername/yourusername/blob/main/metrics.plugin.chess.svg)
+    <a href="https://github.com/yourusername/yourusername/blob/main/metrics.plugin.chess.svg">Chess Metrics</a>
 </div>
 
 </br>
