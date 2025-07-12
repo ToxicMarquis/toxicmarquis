@@ -29,6 +29,8 @@
     </a>
 </div>
 
+</br>
+
 <div align="center">
     <a href="https://github.com/mrq8/toxicmarquis/blob/dc/chess/mrq8.plugin.chess.svg">Chess Metrics</a>
 </div>
