@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source srcset="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/user-attachments/assets/dede4810-8ee6-4574-b0dd-6bb3cf4fee18" media="(prefers-color-scheme: light)">
-        <img alt="Hi, I'm Wing" src="https://github.com/user-attachments/assets/690726e4-cbea-4c59-9df7-f1b3a6fa8a9b" width=400>
+        <source srcset="white" media="(prefers-color-scheme: dark)">
+        <source srcset="black" media="(prefers-color-scheme: light)">
+        <img alt="Hi, I'm Mark" src="white" width=400>
     </picture>
 </div>
 
@@ -18,23 +18,22 @@
     </picture>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-
-  <div style="flex: 1 1 300px; max-width: 45%;">
-    <h3>📚 Languages I Know</h3>
-    <a href="https://skillicons.dev">
-      <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
-    </a>
-  </div>
-
-  <div style="flex: 1 1 300px; max-width: 45%;">
-    <h3>🔧 Other Stuff</h3>
-    <a href="https://skillicons.dev">
-      <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
-    </a>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <h3>📚 Languages I Know</h3>
+      <a href="https://skillicons.dev">
+        <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
+      </a>
+    </td>
+    <td align="center" style="padding: 8px;">
+      <h3>🔧 Other Stuff</h3>
+      <a href="https://skillicons.dev">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </br>
 
