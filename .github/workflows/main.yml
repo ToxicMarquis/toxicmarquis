@@ -1,7 +1,7 @@
-name: AIM ModerMarks Games
+name: LiChess Metrics
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
     branches: ["dc"]
@@ -12,13 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Last chess game from lichess.org
+      - name: Generate Chess metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: chess/mrq8.plugin.chess.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           user: mrq8
-          base: ""
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_chess_user: lowlighter
