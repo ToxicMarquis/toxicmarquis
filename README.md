@@ -1,7 +1,3 @@
-<kbd>$ cat README.md</kbd>
-
----
-
 <div align="center">
     <a href="https://api.statusbadges.me/openspotify/853550207039832084">
         <img src="https://api.statusbadges.me/badge/spotify/853550207039832084?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
@@ -31,9 +27,6 @@
 <br/>
 
 <div align="center">
-    <a href="https://discord.com/users/853550207039832084">
-        <img src="https://lanyard.cnrad.dev/api/853550207039832084?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
-    </a>
     &nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=nexpid&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats">
