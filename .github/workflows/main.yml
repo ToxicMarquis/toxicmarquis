@@ -1,10 +1,10 @@
 name: AIM ModerMarks Games
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Обновление каждые 6 часов
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
-    branches: ["dc"]  # Используем ветку dc вместо main
+    branches: ["dc"]
 
 jobs:
   github-metrics:
@@ -15,7 +15,7 @@ jobs:
       - name: Last chess game from lichess.org
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.chess.svg
+          filename: chess/metrics.plugin.chess.svg
           token: NOT_NEEDED
           base: ""
           plugin_chess: yes
