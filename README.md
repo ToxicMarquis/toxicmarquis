@@ -9,7 +9,7 @@
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,git,github,githubactions,ps">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
     </a>
 </div>
 
