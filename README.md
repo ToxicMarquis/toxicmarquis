@@ -20,8 +20,8 @@
 
 <p align="center">
   <span>📚 Languages I Know</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>🔧 Other Stuff</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span> ​ ​ ​ ​ ​ ​🔧 Other Stuff ​ ​ ​ ​ ​ ​ ​ ​</span>
 </p>
 
 <p align="center">
