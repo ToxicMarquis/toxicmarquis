@@ -14,7 +14,7 @@
 </div>
 
 ## Current project
-[![Gloom](https://github-readme-stats.vercel.app/api/pin/?username=MateriiApps&repo=Gloom&bg_color=141321&text_color=fff)](https://github.com/MateriiApps/Gloom)
+[![Uni7Club](https://github-readme-stats.vercel.app/api/pin/?username=MateriiApps&repo=uni7club&bg_color=141321&text_color=fff)](https://github.com/MateriiApps/Gloom)
 
 </br>
 
