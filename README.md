@@ -19,8 +19,8 @@
 </div>
 
 <p align="center">
-  <span style="font-size:4em; font-weight:bold;">📚 Languages I Know</span>
-  &nbsp;
+  <span>📚 Languages I Know</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>🔧 Other Stuff</span>
 </p>
 
