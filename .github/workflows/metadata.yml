@@ -1,22 +1,23 @@
-name: LiChess Metrics
+name: Chess Metrics
 
 on:
-  push:
-    branches: [ "dc" ]
-  pull_request:
-    branches: [ "dc" ]
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Last chess game from lichess.org
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.chess.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_chess: yes
-        plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-        plugin_chess_platform: lichess.org
+      - name: Chess metrics for README
+        uses: lowlighter/metrics@latest
+        with:
+          filename: chess-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_user: modermark
+          plugin_chess_platform: lichess.org
