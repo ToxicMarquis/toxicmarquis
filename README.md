@@ -48,7 +48,7 @@
 </br>
 
 <div align="center">
-    <h3>🔗 Links</h1>
+    <h4>🔗 Links</h4>
     <div>
         <a href="https://t.me/mrmarqu1s">
             <picture width="45" height="45">
