@@ -33,7 +33,7 @@
   &nbsp;&nbsp;&nbsp;
   <span>
     <a href="https://skillicons.dev">
-      <img alt="Other Stuff" src="https://skillicons.dev/icons?i=discord,replit,github,ps">
+      <img alt="Other Stuff" src="https://skillicons.dev/icons?i=replit,github,ps,ai">
     </a>
   </span>
 </p>
