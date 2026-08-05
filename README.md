@@ -1,7 +1,7 @@
 <div align="center">
     <picture>
-        <source srcset="/badges/banner_w.webp" media="(prefers-color-scheme: dark)">
-        <source srcset="/badges/banner_b.webp" media="(prefers-color-scheme: light)">
+        <source srcset="/assets/banner_w.webp" media="(prefers-color-scheme: dark)">
+        <source srcset="/assets/banner_b.webp" media="(prefers-color-scheme: light)">
         <img alt="Hi, I'm Mark" src="white" width=2000>
     </picture>
 </div>
@@ -12,9 +12,9 @@
 </div>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/badges/line_w.webp">
-        <source media="(prefers-color-scheme: light)" srcset="/badges/line_b.webp">
-        <img src="/badges/line_w.webp" width="2000" />
+        <source media="(prefers-color-scheme: dark)" srcset="/assets/line_w.webp">
+        <source media="(prefers-color-scheme: light)" srcset="/assets/line_b.webp">
+        <img src="/assets/line_w.webp" width="2000" />
     </picture>
 </div>
 
@@ -78,9 +78,9 @@
         &nbsp;
         <a href="https://mrq8.ru">
             <picture width="45" height="45">
-                <source srcset="/badges/logo_w.webp" media="(prefers-color-scheme: dark)" />
-                <source srcset="/badges/logo_b.webp" media="(prefers-color-scheme: light)" />
-                <img alt="Uni7Club" src="/badges/logo_w.webp" width="45" />
+                <source srcset="/assets/logo_w.webp" media="(prefers-color-scheme: dark)" />
+                <source srcset="/assets/logo_b.webp" media="(prefers-color-scheme: light)" />
+                <img alt="Uni7Club" src="/assets/logo_w.webp" width="45" />
             </picture>
         </a>
     </div>
