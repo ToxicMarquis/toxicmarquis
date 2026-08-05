@@ -80,7 +80,7 @@
             <picture width="45" height="45">
                 <source srcset="/assets/mr_w.svg" media="(prefers-color-scheme: dark)" />
                 <source srcset="/assets/mr_b.svg" media="(prefers-color-scheme: light)" />
-                <img alt="Uni7Club" src="/assets/mr_w.svg" width="45" />
+                <img alt="MRQ8" src="/assets/mr_w.svg" width="45" />
             </picture>
         </a>
     </div>
