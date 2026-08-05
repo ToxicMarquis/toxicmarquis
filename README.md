@@ -27,7 +27,7 @@
 <p align="center">
   <span>
     <a href="https://skillicons.dev">
-      <img alt="Languages" src="https://skillicons.dev/icons?i=py,js,html,css">
+      <img alt="Languages" src="https://skillicons.dev/icons?i=py,php,docker,ts,js,html,css">
     </a>
   </span>
   &nbsp;&nbsp;&nbsp;
