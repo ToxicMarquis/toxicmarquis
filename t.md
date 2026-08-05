@@ -8,7 +8,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" align="absmiddle">
+        <img src="/assets/hw.gif" width="35" align="absmiddle">
         Hey, I'm Mark
     </h1>
     I'm a 19 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
