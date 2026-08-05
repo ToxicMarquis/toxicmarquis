@@ -1,22 +1,23 @@
 <div align="center">
     <picture>
-        <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_w.png" media="(prefers-color-scheme: dark)">
-        <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/banner_b.png" media="(prefers-color-scheme: light)">
+        <source srcset="/badges/banner_w.webp" media="(prefers-color-scheme: dark)">
+        <source srcset="/badges/banner_b.webp" media="(prefers-color-scheme: light)">
         <img alt="Hi, I'm Mark" src="white" width=2000>
     </picture>
 </div>
 
 <div align="center">
     <h3>👋 Hey, I'm Mark</h3>
-    I'm a 18 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
+    I'm a 19 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
 </div>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrq8/mrq8/blob/dc/badges/line_w.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrq8/mrq8/blob/dc/badges/line_b.png">
-        <img src="https://github.com/user-attachments/assets/53014bb2-3129-4c1a-b20a-92142d8a30c5">
+        <source media="(prefers-color-scheme: dark)" srcset="/badges/line_w.webp">
+        <source media="(prefers-color-scheme: light)" srcset="/badges/line_b.webp">
+        <img src="/badges/line_w.webp" width="2000" />
     </picture>
 </div>
+
 
 <p align="center">
   <span>📚 Languages I Know ​ ​ ​ ​ ​</span>
@@ -27,7 +28,7 @@
 <p align="center">
   <span>
     <a href="https://skillicons.dev">
-      <img alt="Languages" src="https://skillicons.dev/icons?i=py,php,docker,ts,js,html,css">
+      <img alt="Languages" src="https://skillicons.dev/icons?i=py,php,docker,ts,js,html,css&perline=4">
     </a>
   </span>
   &nbsp;&nbsp;&nbsp;
@@ -43,7 +44,7 @@
 <div align="center">
     <h4>🔗 Links</h4>
     <div>
-        <a href="https://t.me/mrmarqu1s">
+        <a href="https://t.me/mrq8r">
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/telegram/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/telegram/000" media="(prefers-color-scheme: light)" />
@@ -75,11 +76,11 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://mrq8.github.io/uni7club">
+        <a href="https://mrq8.ru">
             <picture width="45" height="45">
-                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/logo_w.png" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://github.com/mrq8/mrq8/blob/dc/badges/logo_b.png" media="(prefers-color-scheme: light)" />
-                <img alt="Uni7Club" src="https://github.com/mrq8/mrq8/blob/dc/badges/logo_w.png" width="45" />
+                <source srcset="/badges/logo_w.webp" media="(prefers-color-scheme: dark)" />
+                <source srcset="/badges/logo_b.webp" media="(prefers-color-scheme: light)" />
+                <img alt="Uni7Club" src="/badges/logo_w.webp" width="45" />
             </picture>
         </a>
     </div>
